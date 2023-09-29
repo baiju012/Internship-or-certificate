@@ -11,3 +11,4 @@
 # Machine learning regression
 
 <![image](https://github.com/baiju012/firstinternship/assets/111991510/76b85fb4-b671-4650-b8ea-6010af65f3a6)>
+<![getting-started-with-enterprise-data-science 2](https://github.com/baiju012/firstinternship/assets/111991510/721424d8-c438-4511-b35f-0b4471be530e)>
