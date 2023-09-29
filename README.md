@@ -1,5 +1,3 @@
-<!div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3f47049-ef97-4516-b885-b8c194ac058d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 
 #firstinternship
 
@@ -11,4 +9,5 @@
 # Machine learning regression
 
 <![image](https://github.com/baiju012/firstinternship/assets/111991510/76b85fb4-b671-4650-b8ea-6010af65f3a6)>
-<![image](https://github.com/baiju012/firstinternship/assets/111991510/721424d8-c438-4511-b35f-0b4471be530e)>
+![image](https://github.com/baiju012/firstinternship/assets/111991510/721424d8-c438-4511-b35f-0b4471be530e)
+![image](https://github.com/baiju012/firstinternship/assets/111991510/32bc9629-eb0b-4344-8601-960db49cc2dd)
