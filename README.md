@@ -3,6 +3,8 @@
  
 <!![image](https://github.com/baiju012/firstinternship/assets/111991510/4ec68a4d-e45e-47eb-8fcd-fafdf9e915ba)>
 
+# Second internship of salesforce from Nov-jan 3 month
+![image](https://github.com/baiju012/Internship-or-certificate/assets/111991510/69460af6-99a3-4095-acff-cd47fa05c33a)
 
 
 
